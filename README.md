@@ -18,7 +18,10 @@ Bem-vindo ao meu **PortfolioHUB**! Este repositório centraliza meus projetos ac
 
 ## 📂 Meus Projetos
 
-
+---------------------------------------------------------------
+|    PROJETO          |    DESCRIÇÃO         |    LINK
+|==============================================================
+|Projeto Web 1.0  |  Landing page responsiva | file:///C:/Users/HP/Desktop/dever%20faculdade/inde.html
 
 ## 📋 Descrição
 Landing page moderna e totalmente responsiva desenvolvida como projeto acadêmico. Demonstra boas práticas de HTML5, CSS3 e design responsivo.
