@@ -13,9 +13,12 @@ Meu portfólio profissional acadêmico
 
 Bem-vindo ao meu **PortfolioHUB**! Este repositório centraliza meus projetos acadêmicos e pessoais, demonstrando minhas habilidades em programação, desenvolvimento web e boas práticas de versionamento.
 
-## 📁 Estrutura do Repositório
+## 🌐 GitHub Pages LIVE
+**https://amorimMatheusOFC.github.io/PortfolioHUB/**
 
-# 🌐 Projeto Web 1.0 - Landing Page Responsiva
+## 📂 Meus Projetos
+
+
 
 ## 📋 Descrição
 Landing page moderna e totalmente responsiva desenvolvida como projeto acadêmico. Demonstra boas práticas de HTML5, CSS3 e design responsivo.
