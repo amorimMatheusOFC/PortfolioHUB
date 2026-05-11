@@ -39,15 +39,21 @@ Landing page moderna e totalmente responsiva desenvolvida como projeto acadêmic
 ## 📊 Histórico de Versionamento
 # 🐍 Calculadora Científica Python
 
-## 📋 Descrição
-Calculadora científica completa desenvolvida em Python com interface de linha de comando. Inclui histórico de operações e tratamento de erros.
-
 ## ✨ Funcionalidades
 - ✅ Operações básicas (+, -, ×, ÷)
 - ✅ Potenciação e raiz quadrada
 - ✅ Histórico das últimas 5 operações
 - ✅ Tratamento de divisão por zero
 - ✅ Interface limpa e intuitiva
+
+
+## 🚀 Executar
+cd projetos/projeto-python
+python main.py
+## 📋 Descrição
+Calculadora científica completa desenvolvida em Python com interface de linha de comando. Inclui histórico de operações e tratamento de erros.
+
+
 
 ## 🛠️ Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
