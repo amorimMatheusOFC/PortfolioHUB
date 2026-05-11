@@ -3,7 +3,7 @@ Meu portfólio profissional acadêmico
 
 # 🚀 PortfolioHUB - Meu Portfólio Profissional
 
-![Portfolio Banner](https://www.canva.com/design/DAHJYtqa0vc/1f_YzRLMCJ4SC1isu7DTpQ/view)
+![Portfolio Banner](portifolio.png)
 
 ## 👨‍💻 Sobre Mim
 **Nome:** [MATHEUS AMORIM NOGUEIRA DE SOUZA]  
