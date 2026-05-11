@@ -18,15 +18,6 @@ Bem-vindo ao meu **PortfolioHUB**! Este repositório centraliza meus projetos ac
 
 ## 📂 Meus Projetos
 
-README mostra:
-PortfolioHUB - Matheus Amorim  ← Cabeçalho
-[portifolio.png]                ← Visual
-https://...github.io           ← Link Pages
-┌──────┬──────────────┬────────┐
-│ Web  │ Landing      │ Demo → │  ← CLICÁVEL
-│ Calc │ Python CLI   │ Code → │  ← CLICÁVEL
-└──────┴──────────────┴────────┘
-[Badges LinkedIn/Email/GitHub] ← Profissional
 
 ## 📋 Descrição
 Landing page moderna e totalmente responsiva desenvolvida como projeto acadêmico. Demonstra boas práticas de HTML5, CSS3 e design responsivo.
